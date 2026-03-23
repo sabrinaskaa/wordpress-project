@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/fa13cec8-b196-43fa-9eef-6b082a614db6" />Sabrina Aska Amalina - A11.2023.15264
+Sabrina Aska Amalina - A11.2023.15264
 
 # Dockerize WordPress dengan MySQL dan Redis
 
